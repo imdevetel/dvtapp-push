@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "446169493840",
+    "firebase_url": "https://dvtapp-push.firebaseio.com",
+    "project_id": "dvtapp-push",
+    "storage_bucket": "dvtapp-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446169493840:android:fd07dfee21787742",
+        "android_client_info": {
+          "package_name": "cl.devetel.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446169493840-n1t0b4abqruoecntph76bfd3sfu41cnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH8n6w2bswQ_NKzpagkcWEY7cfiyP_qMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
